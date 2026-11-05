@@ -1,0 +1,8 @@
+.venv*/
+data/
+models/
+*.h5ad
+*.npy
+.ipynb_checkpoints/
+logs/
+results/

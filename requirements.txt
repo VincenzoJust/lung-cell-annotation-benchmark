@@ -1,0 +1,12 @@
+# Main env (Python 3.11): 01, 02, 03, analysis.ipynb
+# GPU torch first: uv pip install torch --index-url https://download.pytorch.org/whl/cu124
+requests
+scanpy
+pynndescent<0.7  # 0.7 returns csr_array; scanpy 1.11 neighbors then fails on getnnz
+scvi-tools
+scib-metrics
+celltypist
+decoupler
+pydeseq2
+leidenalg
+jupyter

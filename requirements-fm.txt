@@ -1,0 +1,4 @@
+# FM env (Python 3.11): 04_embed_fm.py (scGPT + Geneformer via helical)
+# helical pulls CPU torch; afterwards reinstall GPU torch:
+#   uv pip install --python .venv-fm torch==2.7.0 --index-url https://download.pytorch.org/whl/cu126 --reinstall-package torch
+helical

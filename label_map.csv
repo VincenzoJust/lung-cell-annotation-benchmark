@@ -1,0 +1,64 @@
+label,coarse
+pulmonary alveolar type 1 cell,AT1
+AT1,AT1
+pulmonary alveolar type 2 cell,AT2
+AT2,AT2
+respiratory basal cell,airway epithelial
+club cell,airway epithelial
+nasal mucosa goblet cell,airway epithelial
+multiciliated columnar cell of tracheobronchial tree,airway epithelial
+multiciliated epithelial cell,airway epithelial
+respiratory tract hillock cell,airway epithelial
+bronchial goblet cell,airway epithelial
+serous secreting cell,airway epithelial
+tracheobronchial serous cell,airway epithelial
+tracheobronchial goblet cell,airway epithelial
+mucus secreting cell,airway epithelial
+acinar cell,airway epithelial
+brush cell of tracheobronchial tree,airway epithelial
+pulmonary neuroendocrine cell,airway epithelial
+Airway epithelial cells,airway epithelial
+ionocyte,ionocyte
+alveolar adventitial fibroblast,stromal
+alveolar type 1 fibroblast cell,stromal
+bronchus fibroblast of lung,stromal
+myofibroblast cell,stromal
+fibroblast,stromal
+lung pericyte,stromal
+stromal cell,stromal
+mesothelial cell,stromal
+Fibroblasts,stromal
+tracheobronchial smooth muscle cell,smooth muscle
+smooth muscle cell,smooth muscle
+Smooth muscle,smooth muscle
+capillary endothelial cell,endothelial
+vein endothelial cell,endothelial
+pulmonary artery endothelial cell,endothelial
+endothelial cell of lymphatic vessel,endothelial
+Endothelial cells,endothelial
+alveolar macrophage,macrophage
+elicited macrophage,macrophage
+lung macrophage,macrophage
+Macrophages,macrophage
+classical monocyte,monocyte
+non-classical monocyte,monocyte
+Monocytes,monocyte
+CD1c-positive myeloid dendritic cell,DC
+plasmacytoid dendritic cell,DC
+conventional dendritic cell,DC
+dendritic cell,DC
+Dendritic cells,DC
+mast cell,mast
+Mast cells,mast
+"CD8-positive, alpha-beta T cell",T cell
+"CD4-positive, alpha-beta T cell",T cell
+T cell,T cell
+CD4+ T cells,T cell
+CD8+ T cells,T cell
+Tregs,T cell
+natural killer cell,NK
+NK cells,NK
+B cell,B cell
+B cells,B cell
+plasma cell,plasma
+Plasma cells,plasma
