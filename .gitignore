@@ -6,3 +6,4 @@ models/
 .ipynb_checkpoints/
 logs/
 results/
+CLAUDE.md
